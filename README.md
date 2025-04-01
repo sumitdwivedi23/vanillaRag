@@ -26,3 +26,4 @@ Install the required libraries using the following command:
 
 ```bash
 pip install -r [requirements.txt](http://_vscodecontentref_/0)
+Add your GROQ_API_KEY
